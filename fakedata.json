@@ -1,0 +1,29 @@
+[{
+        "key": "1",
+        "name": "Apple iPhone 13 Mini",
+        "country": "United States",
+        "price": 700,
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Apple iPhone 13",
+        "country": "United Arab Emirate",
+        "price": 1000,
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Apple iPhone 13 Pro",
+        "country": "United Kingdom",
+        "price": 1200,
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+        "key": "4",
+        "name": "Apple iPhone 13 Pro Max",
+        "country": "United States",
+        "price": 1400,
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    }
+]
