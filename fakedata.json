@@ -10,20 +10,20 @@
         "name": "Apple iPhone 13",
         "country": "United Arab Emirate",
         "price": 1000,
-        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
     },
     {
         "key": "3",
         "name": "Apple iPhone 13 Pro",
         "country": "United Kingdom",
         "price": 1200,
-        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg"
     },
     {
         "key": "4",
         "name": "Apple iPhone 13 Pro Max",
         "country": "United States",
         "price": 1400,
-        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
     }
 ]
